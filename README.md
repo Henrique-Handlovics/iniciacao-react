@@ -43,4 +43,4 @@ Este projeto foi desenvolvido com base nos ensinamentos de Felipe Rocha e aplica
 Henrique Handlovics
 🔗 https://github.com/Henrique-Handlovics <br>
 Projeto 
-🔗 https://iniciacao-react-f3dz.vercel.app/
+🔗 https://iniciacao-react.vercel.app/
